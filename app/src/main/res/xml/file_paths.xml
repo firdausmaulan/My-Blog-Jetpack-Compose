@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Allow access to the 'Pictures/My Blog/' directory in external storage -->
+    <external-path
+        name="external_files"
+        path="Pictures/My Blog/" />
+</paths>
