@@ -15,13 +15,13 @@ Tech Stack
 - laravel for rest api
 - JWT auth
 
-<img src="https://raw.githubusercontent.com/firdausmaulan/My-Blog-Jetpack-Compose/refs/heads/master/screenshoot/auth.png" width="300">
+<img src="https://raw.githubusercontent.com/firdausmaulan/My-Blog-Jetpack-Compose/refs/heads/master/screenshoot/auth.png" width="600">
 
-<img src="https://raw.githubusercontent.com/firdausmaulan/My-Blog-Jetpack-Compose/refs/heads/master/screenshoot/blog-post.png" width="300">
+<img src="https://raw.githubusercontent.com/firdausmaulan/My-Blog-Jetpack-Compose/refs/heads/master/screenshoot/blog-post.png" width="600">
 
-<img src="https://raw.githubusercontent.com/firdausmaulan/My-Blog-Jetpack-Compose/refs/heads/master/screenshoot/profile.png" width="300">
+<img src="https://raw.githubusercontent.com/firdausmaulan/My-Blog-Jetpack-Compose/refs/heads/master/screenshoot/profile.png" width="600">
 
-<img src="https://raw.githubusercontent.com/firdausmaulan/My-Blog-Jetpack-Compose/refs/heads/master/screenshoot/state.png" width="300">
+<img src="https://raw.githubusercontent.com/firdausmaulan/My-Blog-Jetpack-Compose/refs/heads/master/screenshoot/state.png" width="600">
 
 Source :
 - https://www.youtube.com/watch?v=6_wK_Ud8--0
